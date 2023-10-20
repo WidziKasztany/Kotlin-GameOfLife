@@ -1,5 +1,3 @@
-import kotlin.random.Random
-
 // Contains entire map of game of life.
 //
 // With Map#runTick it can write results of 1 tick of simulation to another map,
